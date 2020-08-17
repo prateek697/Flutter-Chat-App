@@ -1,4 +1,4 @@
-# chatapptutorial
+# chatapp
 
 A new Flutter application.
 
